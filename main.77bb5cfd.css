@@ -132,7 +132,7 @@ svg {
   top: 80%;
   width: 2rem;
   height: 2rem;
-  rotate: 45deg;
+  transform: rotate(20deg)
 }
 
 .attribution {
